@@ -4,7 +4,6 @@ def factorial_iterative(n):
         result *= i
     return result
 
-# Example usage
 num = 5
 print(f"The factorial of {num} is {factorial_iterative(num)}")
 
